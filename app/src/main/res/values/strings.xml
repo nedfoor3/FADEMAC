@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FADEMAC</string>
+    
+    <string name="ingresa_con">Login to your account</string>
+    <string name="nombre_usuario">Username</string>
+    <string name="error_nombre_usuario">Username no found!</string>
+    <string name="contrasenia">Password</string>
+    <string name="error_contrasenia">Password Error!</string>
+    <string name="ingresar">Ingresar</string>
+</resources>
