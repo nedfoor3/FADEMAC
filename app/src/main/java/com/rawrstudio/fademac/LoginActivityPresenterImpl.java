@@ -1,6 +1,7 @@
 package com.rawrstudio.fademac;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.CountDownTimer;
 import android.widget.Toast;
 
